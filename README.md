@@ -1,2 +1,2 @@
 # playground
-Anything goes
+Anything and everything goes
