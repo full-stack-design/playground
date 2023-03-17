@@ -1,22 +1,12 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
+.navbar-inverse {
+   background-color: darkorchid;
+   background-image: none;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.navbar-inverse .navbar-brand {
+   color: white;
+}
